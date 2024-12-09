@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "settings.h": "c",
+        "laplacebem2d.h": "c",
+        "xlocmon": "c",
+        "basic.h": "c",
+        "krylovsolvers.h": "c"
+    }
+}

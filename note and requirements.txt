@@ -1,0 +1,11 @@
+To run bp5t benchmark at Current Directory:
+python src/main.py -g --examples/bp5t/bp5t.msh -p --examples/bp5t/parameter.txt
+
+To run cascadia model:
+python src/main.py -g --examples/cascadia/cascadia35km_ele4.msh -p --examples/cascadia/parameter.txt
+
+
+requirement of python library
+python>=3.8
+numpy>=1.2
+ctypes==1.1
