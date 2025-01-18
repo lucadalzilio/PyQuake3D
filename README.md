@@ -1,6 +1,6 @@
 # PyQuake3D
 
-![examples](https://github.com/lucadalzilio/PyQuake3D/guide/Logo-PyQuake3D.png)
+![examples](https://raw.githubusercontent.com/lucadalzilio/PyQuake3D/main/guide/Logo-PyQuake3D.png)
 
 PyQuake3D is a Python-based Boundary Element Method (BEM) code for simulating sequences of seismic and aseismic slip (SEAS) on a complex 3D fault geometry governed by rate- and state-dependent friction. This document provides an overview of how to use the script, as well as a detailed description of the input parameters.
 
